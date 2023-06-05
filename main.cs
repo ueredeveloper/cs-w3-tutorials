@@ -3,6 +3,8 @@ using System;
 class Program {
   public static void Main (string[] args) {
 
+    // C# SYNTAX
+
     Console.WriteLine("Line 1: using System => using class System...");
 
     Console.WriteLine("Line 2: C# ignore white space...");
