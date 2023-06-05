@@ -15,6 +15,14 @@ class Program {
 
     Console.WriteLine("Line 5: class  is a container ...");
 
+    // C# OUTPUT
+    // WriteLine method
+    Console.WriteLine("Write line method!");
+    //You can output numbers
+    Console.WriteLine(23+35);
+    // Methos Write
+    Console.Write("Does not insert a line!");
+
     
   }
 }
