@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "js5ZmLUYChia6NHpm396EB+L4GvHWKntYRC3gDNeAQiGoZOZlwANSxI2bEhDXKF370d4WcEabIutHi2llJYmCQ==",
+  "dgSpecHash": "a7izX/HptLX8exTkLhv5g3GW340iYCXroovfFf/WumOSEJNuaAH6uE1oIBtX4BchHZlGpnnBPgEPg7kWs9h5gA==",
   "success": true,
-  "projectFilePath": "/home/runner/c-w3-hello-world/main.csproj",
+  "projectFilePath": "/home/runner/c-w3-tutorials/main.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

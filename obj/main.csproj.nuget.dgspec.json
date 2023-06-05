@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/runner/c-w3-hello-world/main.csproj": {}
+    "/home/runner/c-w3-tutorials/main.csproj": {}
   },
   "projects": {
-    "/home/runner/c-w3-hello-world/main.csproj": {
+    "/home/runner/c-w3-tutorials/main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/runner/c-w3-hello-world/main.csproj",
+        "projectUniqueName": "/home/runner/c-w3-tutorials/main.csproj",
         "projectName": "main",
-        "projectPath": "/home/runner/c-w3-hello-world/main.csproj",
+        "projectPath": "/home/runner/c-w3-tutorials/main.csproj",
         "packagesPath": "/home/runner/.nuget/packages/",
-        "outputPath": "/home/runner/c-w3-hello-world/obj/",
+        "outputPath": "/home/runner/c-w3-tutorials/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/runner/.nuget/NuGet/NuGet.Config"
